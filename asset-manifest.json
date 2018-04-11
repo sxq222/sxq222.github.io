@@ -1,8 +1,12 @@
 {
-  "app.css": "static/css/app.dfa48e9b.css",
-  "app.css.map": "static/css/app.dfa48e9b.css.map",
-  "app.js": "static/js/app.06a0c161.js",
-  "blog0.js": "static/js/blog0.1d33ee62.js",
-  "blog1.js": "static/js/blog1.2520af99.js",
+  "app.css": "static/css/app.ee938acb.css",
+  "app.css.map": "static/css/app.ee938acb.css.map",
+  "app.js": "static/js/app.6ff69bc4.js",
+  "blog0.js": "static/js/blog0.239d4c13.js",
+  "blog1.js": "static/js/blog1.e40e01b0.js",
+  "blog2.js": "static/js/blog2.1dc63140.js",
+  "blog3.js": "static/js/blog3.ddb24795.js",
+  "blog4.js": "static/js/blog4.e3ee7bc2.js",
+  "static\\media\\3.png": "static/media/3.f06eb7a6.png",
   "static\\media\\8.png": "static/media/8.9f3d4c7a.png"
 }
