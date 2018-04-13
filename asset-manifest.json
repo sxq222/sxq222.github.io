@@ -1,12 +1,15 @@
 {
-  "app.css": "static/css/app.096edd09.css",
-  "app.css.map": "static/css/app.096edd09.css.map",
-  "app.js": "static/js/app.99f0d215.js",
-  "blog0.js": "static/js/blog0.cc6e034e.js",
-  "blog1.js": "static/js/blog1.c43118e7.js",
-  "blog2.js": "static/js/blog2.39ae289b.js",
-  "blog3.js": "static/js/blog3.b83fe0cc.js",
-  "blog4.js": "static/js/blog4.9176eaf3.js",
+  "app.css": "static/css/app.be7f2277.css",
+  "app.css.map": "static/css/app.be7f2277.css.map",
+  "app.js": "static/js/app.c26aff57.js",
+  "blog0.js": "static/js/blog0.ac734069.js",
+  "blog1.js": "static/js/blog1.fe49a19d.js",
+  "blog2.js": "static/js/blog2.5ef1ab1b.js",
+  "blog3.js": "static/js/blog3.41feaa8c.js",
+  "blog4.js": "static/js/blog4.0dc69d60.js",
+  "blog5.js": "static/js/blog5.69e88ceb.js",
+  "static\\media\\1.png": "static/media/1.9a960a66.png",
+  "static\\media\\2.png": "static/media/2.035e0d2c.png",
   "static\\media\\3.png": "static/media/3.f06eb7a6.png",
   "static\\media\\8.png": "static/media/8.9f3d4c7a.png"
 }
